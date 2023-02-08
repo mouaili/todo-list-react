@@ -1,0 +1,29 @@
+/* hEADER STYLES CSS */
+
+header {
+  background-color: #fbfbff;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #0b4f6c;
+}
+
+header h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+ul {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  list-style-type: none;
+  /* cursor: pointer; */
+  font-weight: bold;
+}

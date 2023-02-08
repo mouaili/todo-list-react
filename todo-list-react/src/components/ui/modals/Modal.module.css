@@ -1,0 +1,44 @@
+/* Module Overlay css */
+
+.overlay {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.75);
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem;
+}
+
+.modal {
+  background-color: #fbfbff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.25);
+  min-width: 28rem;
+}
+
+.modal-header {
+  padding: 1rem;
+  border-bottom: 0.1rem solid #dddee2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-header h3 {
+  color: rgb(41, 40, 38);
+  margin: 0;
+}
+
+.modal-content {
+  padding: 1rem;
+  color: black;
+}
+
+.text-primary {
+  color: #099bef !important;
+}
+
+.text-secondary {
+  color: #f50505 !important;
+}

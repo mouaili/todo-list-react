@@ -1,0 +1,16 @@
+/* Module TIMER CSS */
+.timer-container {
+  min-width: 15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  gap: 2;
+}
+
+.timer {
+  font-size: 3rem;
+  margin: 0;
+  font-weight: 600;
+}

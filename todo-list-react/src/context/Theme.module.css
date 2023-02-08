@@ -1,0 +1,11 @@
+/* Theme module css */
+
+.light {
+  background-color: rgb(241, 243, 244);
+  color: rgb(4, 51, 75);
+}
+
+.dark {
+  background-color: rgb(108, 108, 108);
+  color: rgb(225, 234, 251);
+}
